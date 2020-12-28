@@ -78,3 +78,7 @@
   
 
 </details>
+
+### Output
+
+![Trial_3](Outputs/trial_3.gif)
